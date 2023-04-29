@@ -1,0 +1,79 @@
+    1  ssh-keygen -t ed25519 -C "akumar335599@gmail.com"
+    2  ssh-keygen -t ed25519 -C "akumar335599@gmail.com"
+    3  ls -al ~/.ssh
+    4  eval "$(ssh-agent -s)"
+    5  ssh-add ~/.ssh/id_ed25519
+    6  ssh-add ~/.ssh/id_1911
+    7  ssh-add ~/.ssh/id_pd1911
+    8  ssh-add ~/.ssh/id_ed1911
+    9  mkdir as
+   10  pwd
+   11  cd D:\Geeklurn\Git bash
+   12  cd D:\Geeklurn\Git_bash
+   13  cd "D:\Geeklurn\Git_bash"
+   14  mkdir gl-pproject
+   15  mkdir gl-project
+   16  rm gl-pprogect
+   17  rm gl-pproject
+   18  cd gl-project
+   19  ls 
+   20  cd ~pwd
+   21  cd~
+   22  cd ~
+   23  pwd 
+   24  git config --list
+   25  cd gl-project
+   26  cd "D:\Geeklurn\Git_bash"
+   27  cd gl-project
+   28  git init
+   29  touch file-1.txt
+   30  git status
+   31  git add file-1.txt
+   32  git status
+   33  git status
+   34  echo "Hello World".. file-1.txt
+   35  git ststus
+   36  git status
+   37  echo "Hello World".. file- 1.txt
+   38  echo "Hello World">> file- 1.txt
+   39  echo "Hello World">> file-1.txt
+   40  git status
+   41  git commit -m "update file-1.txt"
+   42  git status
+   43  git add
+   44  cat file-1.txt
+   45  cd commit -m "add file-1.txt"
+   46  git branch -M main
+   47  git branch -M master
+   48  git branch -M main
+   49  git status
+   50  [200~git add file-1.txt
+   51  git add file-1.txt
+   52  git status
+   53  git add git_command.PNG
+   54  git status
+   55  git commit -m 
+   56  git commit gl-project
+   57  git-commit -m update file-1.txt
+   58  git commit -m file-1.txt
+   59  git status
+   60  git remote -v
+   61  git remote add origin [200~https://github.com/anjani45/trial_repository.git~git remote add origin https://github.com/anjani45/trial_repository.git
+   62  git remote add origin https://github.com/anjani45/trial_repository.git
+   63  git remote -v
+   64  git push -u origin main
+   65  git status
+   66  echo "Happy IPL!" >> file-1.txt
+   67  git status
+   68  git add file-1.txt
+   69  git status
+   70  git commit -m "update content of file-1.txt"
+   71  git status
+   72  git push origin main
+   73  history
+   74  git config user.email "akthestranger10@gmail.com"
+   75  git config user.email
+   76  git config user.name
+   77  history4
+   78  history
+   79  history >> April15history.txt
